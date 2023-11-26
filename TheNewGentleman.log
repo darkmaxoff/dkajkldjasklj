@@ -1,0 +1,212 @@
+[20:29:26.152] [info] Initializing TheNewGentleman 0.6.2.0!
+[20:30:50.551] [info] Finding the genitals to respective races...
+[20:30:50.551] [info] Assigning genitals to races...
+[20:30:50.551] [info] The race [0x39f8c7cc:00SPArgonianPitLordRace] from file [Arcanum.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.551] [info] The race [0x3980a7b0:00SPAuroranRace] from file [Arcanum.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.551] [info] The race [0x4d0bbee7:WB_ConjureCraftlord_Race] from file [Apocalypse - Magic of Skyrim.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.551] [info] The race [0x27147b4d:_00DarkSeducerRace] from file [Skyrim Immersive Creatures Special Edition.esp] has only female NPC references and ignored by TNG.
+[20:30:50.551] [info] The race [0x39884077:00SPAuroranDragurRace] from file [Arcanum.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.551] [info] The race [0x2770c307:_SIC_DwemerRace] from file [Skyrim Immersive Creatures Special Edition.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.551] [info] The race [0x2710ec0e:_00GoldenSaintRace] from file [Skyrim Immersive Creatures Special Edition.esp] has only female NPC references and ignored by TNG.
+[20:30:50.551] [info] The race [0x62002854:HermitRaceVampire] from file [Hermit.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0x620012c4:HermitRace] from file [Hermit.esp] has only female NPC references and ignored by TNG.
+[20:30:50.552] [info] The race [0x3956d2f9:00SPInvokerRace] from file [Arcanum.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0x60005381:00DaedricPei13_Race] from file [Daedric Bitchs.esp] has only female NPC references and ignored by TNG.
+[20:30:50.552] [info] The race [0xfe03fd66:00Mona_Race] from file [Mona Follower.esp] has only female NPC references and ignored by TNG.
+[20:30:50.552] [info] The race [0x6001ec70:aaaNordRace_CF] from file [Daedric Bitchs.esp] has only female NPC references and ignored by TNG.
+[20:30:50.552] [info] The race [0x60005749:aaaNordRace_CF] from file [Daedric Bitchs.esp] has only female NPC references and ignored by TNG.
+[20:30:50.552] [info] The race [0x39e29618:00SP_ConjurationImpRaceV2] from file [Arcanum.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0x340a19fd:BVNPCSnowElfRaceVampire] from file [Better Vampire NPCs.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0x271365e7:_00WingedTwilightRace] from file [Skyrim Immersive Creatures Special Edition.esp] has only female NPC references and ignored by TNG.
+[20:30:50.552] [info] The race [0xfe07bd75:sssYaoRace] from file [1YaoYaoFollower.esp] has only female NPC references and ignored by TNG.
+[20:30:50.552] [info] The race [0xab1f0605:ArgonianRaceVampire2] from file [Better Vampires.esp] was recognized as Saxhleel(Argonian). If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab1f0606:BretonRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab002f9a:HighElfRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab002f9b:ImperialRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab002f9c:KhajiitRaceVampire2] from file [Better Vampires.esp] was recognized as Khajiit. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab002f9f:WoodElfRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab1f0604:NordRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab002f9d:OrcRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab002f9e:RedguardRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] The race [0xab1f0607:DarkElfRaceVampire2] from file [Better Vampires.esp] received the default genital for man and mer races. If this is wrong, a patch is required.
+[20:30:50.552] [info] TNG recognized assigned genitals to [46] races: [27] from base-game races and [19] from other mods.
+[20:30:50.552] [info] Checking NPCs for custom skins: There are 13923 NPC records.
+[20:30:50.552] [info] The NPC [Конский каштан] from the race [IniGiantRace] does not have registered racial genitals. If they should, a patch is required.
+[20:30:50.552] [info] Out of the [13923] NPCs:
+[20:30:50.552] [info] 	10290 NPCs do not have a custom skin (WNAM) or are not adult humanoids,
+[20:30:50.552] [info] 	72 NPCs' skins are already handled with races,
+[20:30:50.552] [info] 	TNG handled custom skins for 3560 NPCs from following mod(s):
+[20:30:50.552] [info] 		[2] skins from Arcanum.esp
+[20:30:50.552] [info] 		[1] skins from BelleFollowerHP.esp
+[20:30:50.552] [info] 		[1] skins from CS_Anaka.esp
+[20:30:50.552] [info] 		[1] skins from CS_Sigrun.esp
+[20:30:50.552] [info] 		[1] skins from Emma_follower.esp
+[20:30:50.552] [info] 		[138] skins from High Poly NPC Overhaul - Resources.esp
+[20:30:50.552] [info] 		[1] skins from Skyrim.esm
+[20:30:50.552] [info] 		[2] skins from k101Daegon.esp
+[20:30:50.552] [info] 		[1] skins from k404Koemia.esp
+[20:30:50.552] [info] Checking armor pieces...
+[20:30:50.553] [info] The armor [0x6200af00:Трусики Тани] from file [Hermit.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe049dd8:calyps strapon] from file [OStim.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe049dda:calyps strapon simple] from file [OStim.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f83b:Юбка Заключенного] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f83c:Юбка Заключенного Комбинированный] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f83d:Заключенный Грязный Юбка] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f83e:Заключенный Грязный Юбка Комбинированная ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f83f:Полный комплект Шпиля Смерти ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f841:Кираса Шпиля Смерти] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f85a:Полный комплект Запретной жрицы] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f869:Нижняя Юбка Запретной Жрицы] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f86a:Нижняя Юбка Запретной Жрицы Металлическое Одеяние ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f870:Полный комплект Дорма] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f874:Нагрудник Дорма с костями] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f890:Комбинированное нижнее белье заключенного] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f891:Нижнее белье заключенного] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f893:Полный комплект первопроходца] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f897:Низ Грязного Нижнего Белья Заключенного] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f899:Грязное Нижнее Белье Заключенного Комбинированное] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8a5:Запретная жрица Полный комплект (высокие каблуки)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8b9:Полный комплект каерруса (Высокие каблуки)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8ba:Каеррус Кираса Минималистский v1 ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8bb:Каеррус  Кираса Минималистский v2] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8bc:Каеррус Полный комплект (без рюкзака) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8bd:Полный комплект заключенного] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8be:Полный комплект заключенного Грязный] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8bf:Юбка заключенного Полный комплект] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c0:Юбка заключенного Полный комплект Грязный ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c2:Полный комплект первопроходца (высокие каблуки) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c3:Кираса Каэрруса] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c4:Кираса первопроходца ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c5:Нижнее белье Каэрруса Снизу] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c6:Кираса Каэрруса (без рюкзака)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c7:Комбинированное нижнее белье Каэрруса] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8c9:Полный набор Каэрруса Максимальный (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8ca:Полный набор Каэрруса Максимальный (Высокие каблуки) (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8cf:Полный комплект Каэрруса] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8d4:Полный комплект заключенного максимальный (Высокие каблуки) (1 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8d5:Полный комплект Каэрруса максимальный (без рюкзака) (1 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8d6:Каэррус максимальный Полный комплект  (без рюкзака) (Высокие каблуки) (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8d8:Полный набор заключенного максимальный (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8db:Запретная Жрица максимальный Полный Набор (Высокие каблуки) (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8dc:Полный набор Запретная Жрица максимальный (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8e0:Юбка заключенного максимальный полный комплект (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8e1:Заключенный максимальный Полный Набор Грязный (1 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8e2:Юбка заключенного максимальный полный комплект Грязный  (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8e3:Полный набор Заключенный максимальный (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8e8:Полный набор Смертоносный шпиль максимальный (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8ef:Каэррус полный комплект (без рюкзака) (Высокие каблуки) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8f0:Полный комплект Дорма максимальный (lvl 1) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f8ff:Полный набор заключенного максимальный (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f900:Полный комплект заключенного максимальный (Высокие каблуки) (2 уровня)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f901:Заключенный максимальный полный комплект (Высокие каблуки) (3 уровня)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f902:Полный набор заключенного максимальный (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f903:Заключенный максимальный полный комплект (Высокие каблуки) (4 уровня)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f904:Полный набор заключенного максимальный (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f908:Запретная Жрица максимальный Полный Набор (Высокие каблуки) (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f909:Полный набор Запретная Жрица максимальный (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f90a:Полный набор Запретная Жрица максимальный (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f90b:Запретная Жрица максимальный Полный Набор (Высокие каблуки) (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f90c:Запретная Жрица максимальный Полный Набор (Высокие каблуки) (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f90d:Полный набор Запретная Жрица максимальный (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f91a:Полный набор Prisoner Ultimate (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f91b:Заключенный максимальный Полный Набор Грязный (2 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f91c:Юбка заключенного максимальный полный комплект (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f91d:Юбка заключенного Ultimate Full Set Dirty (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f921:Полный набор Заключенный максимальный (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f922:Заключенный максимальный Полный Набор Грязный (3 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f923:Юбка заключенного максимальный полный комплект (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f924:Юбка заключенного Ultimate Full Set Dirty (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f925:Полный набор Заключенный максимальный (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f926:Заключенный максимальный Полный Набор Грязный (4 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f927:Юбка заключенного максимальный полный комплект (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f928:Юбка заключенного Ultimate Full Set Dirty (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f929:Полный набор Каэрруса максимальный (Высокие каблуки) (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f92a:Полный набор Каэрруса максимальный (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f92b:Полный набор Каэрруса максимальный (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f92c:Полный набор Каэрруса максимальный (Высокие каблуки) (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f92d:Полный набор Каэрруса максимальный (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f92e: Полный набор Каэрруса максимальный (Высокие каблуки) (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f92f:Полный комплект Каэрруса максимальный (без рюкзака) (2 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f930:Каэррус максимальный Полный комплект  (без рюкзака) (Высокие каблуки) (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f931:Полный комплект Каэрруса максимальный (без рюкзака) (3 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f932:Каэррус максимальный Полный комплект  (без рюкзака) (Высокие каблуки) (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f933:Полный комплект Каэрруса максимальный (без рюкзака) (4 уровень)] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f934:Каэррус максимальный Полный комплект  (без рюкзака) (Высокие каблуки) (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f935:Полный набор Смертоносный Шпиль максимальный (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f936:Полный набор Смертоносный Шпиль максимальный  (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f937:Полный набор Смертоносный Шпиль максимальный  (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f953:Полный комплект Dorma Ultimate (lvl 2) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f954:Полный комплект Дорма максимальный (lvl 3) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe06f955:Полный комплект Дорма максимальный (lvl 4) ] from file [FAAC.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe070811:Tera Succubus Panty [Black&Puple]] from file [TeraSuccubusArmor.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe07082d:Tera Succubus Panty [Brown]] from file [TeraSuccubusArmor.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe070855:Tera Succubus Panty [Red&Gold]] from file [TeraSuccubusArmor.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xfe07085d:Tera Succubus Panty [Black&Gold]] from file [TeraSuccubusArmor.esp] would cover genitals and be covered by chest armor pieces (like an underwear). If it is wrong, a patch is required.
+[20:30:50.553] [info] The armor [0xcdd86:] from file [Skyrim.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x9da65:] from file [Skyrim.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x16ee7:] from file [Skyrim.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x16ee6:] from file [Skyrim.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x2003c69:] from file [Dawnguard.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x20023f5:] from file [Dawnguard.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x20023e0:] from file [Dawnguard.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x401e17e:] from file [Dragonborn.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x6183e63:] from file [ccBGSSSE025-AdvDSGS.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0xa0012cf:] from file [RSkyrimChildren.esm] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.553] [info] The armor [0x277b3abd:] from file [Skyrim Immersive Creatures Special Edition.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b001832:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00331c:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b005ca2:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00659f:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c662:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c66f:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c699:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c6a6:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c6c1:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c6cf:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c6dc:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c6ea:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c6f9:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c706:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c723:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c730:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c73d:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c74a:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c758:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00c765:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b00e384:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0x3b0012d1:] from file [Bijin Warmaidens.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a812:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a813:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a815:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a816:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a839:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a83b:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a83c:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a83e:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a847:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a848:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a87e:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a87f:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a884:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a886:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a88d:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a890:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a89e:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a89f:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a0:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a1:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a2:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a3:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a4:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a5:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a6:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a7:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a8a8:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe01a94a:] from file [High Poly NPC Overhaul - Resources.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe05c805:] from file [Serana Re-Imagined.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] The armor [0xfe05c810:] from file [Serana Re-Imagined.esp] is markerd revealing. If this is a mistake, a patch is required!
+[20:30:50.554] [info] Processed 2616 body armor pieces:
+[20:30:50.554] [info] 	214: already covering genitals
+[20:30:50.554] [info] 	63: revealing
+[20:30:50.554] [info] 	2339: updated to cover genitals
+[20:30:50.554] [info] TheNewGentleman finished its operations.
